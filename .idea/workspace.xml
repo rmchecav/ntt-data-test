@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fe67114-1b53-419b-bb53-b0a827af87af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c19b3565d54165b13b72e934518c9a96c7489eb0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8e97ee73c8d07b83183a5c57459efdd630b3793" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/1/c19b3565d54165b13b72e934518c9a96c7489eb0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/8/e8e97ee73c8d07b83183a5c57459efdd630b3793" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/AddPet.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/Common.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/GetPetById.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/GetPetByStatus.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/PetAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate/UpdatePet.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/karate-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/logback.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2b0lrHkGYxiGwBGAkkIGd8oRXkv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: AddPet.executor": "Run",
+    "Cucumber Java.Scenario: Add a pet to the store.executor": "Run",
+    "JUnit.All in karate-petStore (1).executor": "Run",
+    "JUnit.All in karate-petStore (2).executor": "Run",
+    "JUnit.All in karate-petStore (3).executor": "Run",
+    "JUnit.All in karate-petStore (4).executor": "Run",
+    "JUnit.All in karate-petStore.executor": "Run",
+    "JUnit.PetAPI.executor": "Run",
+    "JUnit.PetAPI.testAddPet.executor": "Run",
+    "JUnit.PetAPITest (1).executor": "Run",
+    "JUnit.PetAPITest.executor": "Run",
+    "JUnit.PetAPITest.testAddPet (1).executor": "Run",
+    "JUnit.PetAPITest.testAddPet.executor": "Run",
+    "JUnit.PetAPITest.testGetPetById.executor": "Run",
+    "JUnit.PetAPITest.testGetPetByStatus.executor": "Run",
+    "JUnit.PetAPITest.testUpdatePet.executor": "Run",
+    "Karate Feature.AddPet.feature: AddPet.feature.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/maris/IdeaProjects/karate-petStore/src/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/maris/IdeaProjects/karate-petStore/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maris\IdeaProjects\karate-petStore\src\test" />
+      <recent name="C:\Users\maris\IdeaProjects\karate-petStore\src\test\java\features" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maris\IdeaProjects\karate-petStore\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="screenplay" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PetAPITest.testUpdatePet">
+    <configuration name="All in karate-petStore (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-petStore" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetAPITest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-petStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate" />
+      <option name="MAIN_CLASS_NAME" value="karate.PetAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetAPITest.testGetPetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-petStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate" />
+      <option name="MAIN_CLASS_NAME" value="karate.PetAPITest" />
+      <option name="METHOD_NAME" value="testGetPetById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetAPITest.testGetPetByStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-petStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate" />
+      <option name="MAIN_CLASS_NAME" value="karate.PetAPITest" />
+      <option name="METHOD_NAME" value="testGetPetByStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetAPITest.testUpdatePet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-petStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate" />
+      <option name="MAIN_CLASS_NAME" value="karate.PetAPITest" />
+      <option name="METHOD_NAME" value="testUpdatePet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PetAPITest.testUpdatePet" />
+        <item itemvalue="JUnit.PetAPITest (1)" />
+        <item itemvalue="JUnit.PetAPITest.testGetPetByStatus" />
+        <item itemvalue="JUnit.PetAPITest.testGetPetById" />
+        <item itemvalue="JUnit.All in karate-petStore (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fe67114-1b53-419b-bb53-b0a827af87af" name="Changes" comment="" />
+      <created>1705360078927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705360078927</updated>
+      <workItem from="1705360080128" duration="18583000" />
+      <workItem from="1705524499980" duration="21452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
